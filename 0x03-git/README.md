@@ -1,1 +1,1 @@
-readme in the 0x03-git
+readme in the 0x03-git project
